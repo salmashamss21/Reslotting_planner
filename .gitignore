@@ -1,0 +1,14 @@
+# Virtual environment and Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large raw and generated dataset files in data/
+data/*.xlsx
+data/*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
